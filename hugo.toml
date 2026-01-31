@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1314/"
+baseURL = "https://alfredo.design/"
 title = "Alfredo Design"
 theme = "design"
 languageCode = "en"
